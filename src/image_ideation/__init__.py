@@ -1,0 +1,2 @@
+"""Image ideation app package."""
+
